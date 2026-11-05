@@ -14,7 +14,7 @@ services:
     volumes:
       - mongo_data:/data/db
     networks:
-      - fleet-netcd
+      - fleet-net
 
 volumes:
   mongo_data:
