@@ -1,0 +1,8 @@
+{
+  "name": "fleet-tracking",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
